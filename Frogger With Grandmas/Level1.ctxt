@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Level1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Level1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Level1()
+comment2.params=
+comment2.target=void\ initialize()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=int\ getLevel()
+comment5.params=
+comment5.target=int\ randomizer()
+comment6.params=
+comment6.target=int\ possiblePlaces()
+comment7.params=
+comment7.target=void\ spawnCars()
+comment8.params=
+comment8.target=void\ spawnAlligator()
+comment9.params=
+comment9.target=void\ resetEverything()
+numComments=10
